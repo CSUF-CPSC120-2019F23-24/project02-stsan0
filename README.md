@@ -11,10 +11,10 @@ In this program, you will be learning to use the C++ programming data manipulato
 
 ## main.cpp
 Update project milestone 1 in the following ways:
-1. Allow multiple words for the business trip location
-1. Add range checking to the business trip location *(hint: output no more than 20 characters, using `substr` from the `string` object)*
-1. Add dollar signs to your output (see sample) *(hint: copy $ and dollar value to a string before outputting, example string would be $649.20)*
-1. Update the dollar amounts so that they always show 2 digits past the decimal
+1. Allow multiple words for the business trip location v
+1. Add range checking to the business trip location *(hint: output no more than 20 characters, using `substr` from the `string` object)* v
+1. Add dollar signs to your output (see sample) *(hint: copy $ and dollar value to a string before outputting, example string would be $649.20)* v
+1. Update the dollar amounts so that they always show 2 digits past the decimal v 
 
 The program then outputs all categories along with the total of all expenses in table format. See Sample Output below for format. *Note that information following the question marks in the sample output is user input, and not a part of your program.*
 
